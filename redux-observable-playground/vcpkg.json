@@ -1,0 +1,8 @@
+{
+    "dependencies": [
+        "lager",
+        "zug",
+        "boost-intrusive",
+        "boost-variant"
+    ]
+}
